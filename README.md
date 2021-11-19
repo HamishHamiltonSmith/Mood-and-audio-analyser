@@ -18,7 +18,7 @@ The software will allow you to visualise youe audio files in matplotlib using FF
 
 **Software**
 
-This software was made using python, the modules it features are as follows:
+This software was made using python, the frameworks and librarys it features are as follows: 
 -Tkinter
 -Playsound
 -Numpy
